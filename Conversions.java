@@ -21,7 +21,7 @@ public class Conversions
         //You can add even more if you would like.
 
         int selection = keyboard.nextInt();
-        keyboard.nextLine();  //go past the endline and be ready for more input
+        keyboard.nextLine();  //go past the end-line and be ready for more input
 
         if (selection == 1)
         {
